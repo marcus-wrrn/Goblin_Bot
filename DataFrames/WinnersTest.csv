@@ -1,0 +1,7 @@
+,name,desc,cr,immunities,resists,conditions,wins,actions,hp,str,dex,con,int,wis,cha,ac,spd
+0,Barbarian,Medium Humanoid Chaotic Evil,1/4,,,"Reliable Damage,Hill Dwarf,Rage,Level 1",,"Maul: +4, 11 Bludgeoning, 7 Bludgeoning (If Crit)	Blowgun: +3, 25ft, 2 Piercing",16,14,12,17,7,6,16,14,25
+1,Drow,Medium Humanoid Neutral Evil,1/4,Asleep,Charmed,Badly Drawn,Violet Fungus,"Shortsword: +4, 1d6+2 Piercing	Hand Crossbow: +4, 30ft, 1d6+2 Piercing, Poisoned (CON Save)	Faerie Fire: 60ft, Faerie Fire (WIS Save)",10,10,14,10,11,11,12,15,30
+2,Dretch,Small Fiend Chaotic Evil,1/4,"Poison,Poisoned","Cold,Fire,Lightning","Vorpal Blade,Fetid Cloud",Ice Mephit,"Bite: +2, 1d6 Piercing	Claws: +2, 2d4 Slashing	Multiattack: Bite, Claws	Fetid Cloud: Fetid Cloud",25,11,11,12,5,8,3,11,20
+3,Barbarian,Medium Humanoid Chaotic Evil,1/4,,,"Reliable Damage,Hill Dwarf,Rage",Panther,"Maul: +4, 11 Bludgeoning, 7 Bludgeoning (If Crit)	Blowgun: +3, 25ft, 2 Piercing",16,14,12,17,7,6,16,14,30
+4,Lizardfolk,Medium Humanoid Neutral,1/2,,,"Mirrored,Mirror Image",,"Bite: +4, 1d6+2 Piercing	Heavy Club: +4, 1d6+2 Bludgeoning	Spiked Shield: +4, 1d6+2 Piercing	Javelin: +4, 30ft, 1d6+2 Piercing	Multiattack: 2x (Heavy Club, Spiked Shield, Bite)",21,15,10,13,7,12,7,15,30
+5,Giant Goat,Large Beast Unaligned,1/2,,Prone,Backstabber,,"Ram: +5, 2d4+3 Bludgeoning, Sneak Attack	Charge: +5, 4d4+3 Bludgeoning, Prone (STR Save), Sneak Attack",30,17,11,12,3,12,6,11,40
